@@ -3,7 +3,7 @@
 
 This is just a (very) basic REST API done to explain the basic concepts around APIs, REST, CRUD... in a blog post I have made here ~~soon~~.
 
-You can test it just by downloading this repo:
+You can test it downloading this repo:
 ```bash
 git clone https://github.com/NauCode/sample-todo-api-nodejs-express.git
 ```
