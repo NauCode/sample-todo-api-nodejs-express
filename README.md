@@ -1,7 +1,7 @@
 # Sample ToDo REST API
 ## Using Node.JS and Express.JS
 
-This is just a (very) basic REST API done to explain the basic concepts around APIs, REST, CRUD... in a blog post I have made here [s](https://google.es).
+This is just a (very) basic REST API done to explain the basic concepts around APIs, REST, CRUD... in a blog post I have made here ~~soon~~.
 
 You can test it just by downloading this repo:
 ```bash
